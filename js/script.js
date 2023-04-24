@@ -133,3 +133,8 @@ function createGrid(numCells, eleContainer) {
 
 
 }
+
+
+/* posso semplificare ancora, creare variabile che cambia rispetto alla lungezza della chiamata celle (esempio 100 celle = long, 81 celle = medium, 49 celle = short)
+
+dopo cambio il mio create grid con queste variabili, infine chiedo all'addeventlistener di creare celle diverse hard-medium-easy guardando questa variabile */
